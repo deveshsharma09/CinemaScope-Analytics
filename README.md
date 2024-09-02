@@ -97,9 +97,6 @@ Observations: Initially the movies were made with low budgets and they were not 
 Pie Chart: Illustrated the distribution of movies across different ratings to highlight rating trends.
 Number of Movies by Genre:
 Bar Chart: Displayed the count of movies across various genres, identifying the most and least popular genres.
-Slicers:
-
-image
 
 Actionables:
 Use successful movies like Avengers: Endgame and Avatar in your marketing to show their success and attract attention. Partner with studios or distributors for joint promotions or exclusive content. Focus on creating and promoting R-rated content to appeal to that audience and adjust your marketing to match their interests.
