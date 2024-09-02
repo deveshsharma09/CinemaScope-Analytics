@@ -1,4 +1,4 @@
-CinemaScope-Analytics
+#CinemaScope-Analytics
 Unveiling the Dynamics of Movie Success
 
 Hollywood Insights Inc. is a data analytics firm specializing in the film and entertainment industry. The company provides in-depth analysis and insights into movie trends, box office earnings, and audience preferences. With an extensive dataset covering various aspects of the movie industry, including movie titles, genres, directors, stars, production companies, budgets, gross earnings, and IMDb scores, Hollywood Insights Inc. plays a crucial role in guiding film studios, independent filmmakers, and media analysts in making informed decisions. As the film industry evolves with emerging trends and changing audience tastes, the need for comprehensive data analysis becomes increasingly vital for predicting success, understanding market dynamics, and identifying key factors that contribute to a movie's popularity and financial success.
