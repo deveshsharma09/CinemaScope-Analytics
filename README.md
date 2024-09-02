@@ -95,3 +95,14 @@ Gross Budget ratio and Profit Difference Percentage: For observing the trends of
 Gross Budget Ratio: In order to visualise the gross budget ratio line chart is used. The gross budget ratio of the movies is calculated by dividing the gross collection of movies per year by total budget of the movies produced over year.
 Observations: Initially the movies were made with low budgets and they were not much profitable. Thismight have happen because of the reason that people were not much aware of movies or they were less interested in the genre of films that were produced then. During the time of 1984-1986, 1990-1992, 1996-1998 most of the movies made huge losses. From the year 2009 onwardsmost of the movies were high budget and profitable as compared to past years.
 Pie Chart: Illustrated the distribution of movies across different ratings to highlight rating trends.
+Number of Movies by Genre:
+Bar Chart: Displayed the count of movies across various genres, identifying the most and least popular genres.
+Slicers:
+
+image
+
+Actionables:
+Use successful movies like Avengers: Endgame and Avatar in your marketing to show their success and attract attention. Partner with studios or distributors for joint promotions or exclusive content. Focus on creating and promoting R-rated content to appeal to that audience and adjust your marketing to match their interests.
+
+Conclusion
+The dashboards and analyses provide a comprehensive view of the movie industry, blending financial metrics and creative insights. From identifying key trends in decade-wise movie performance to evaluating genre popularity and production house success, the data-driven approach offers valuable perspectives for producers, investors, and creators. By visualizing financial correlations, genre distributions, and forecasting future trends, this project equips stakeholders with actionable insights to make informed decisions and strategize effectively within the dynamic world of filmmaking.
